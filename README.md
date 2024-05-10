@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning HTML, Python, Css and Javascript
 - 💞️ I’m looking to collaborate on any projects made from love and aspiration!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I currently study for Sytems of information and a law degree, it can be tricky sometimes but with a lot of hard work I make it work!
+- ⚡ Fun fact: I am deeply fond of all form of artistic expression and feel as if programming allows me to have a whole new space to let my creativity roam wild!
 
 
